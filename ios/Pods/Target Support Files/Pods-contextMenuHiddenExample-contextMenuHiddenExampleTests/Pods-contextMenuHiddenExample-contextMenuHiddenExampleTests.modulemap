@@ -1,0 +1,6 @@
+module Pods_contextMenuHiddenExample_contextMenuHiddenExampleTests {
+  umbrella header "Pods-contextMenuHiddenExample-contextMenuHiddenExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

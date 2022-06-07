@@ -1,0 +1,6 @@
+module Pods_contextMenuHiddenExample {
+  umbrella header "Pods-contextMenuHiddenExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
